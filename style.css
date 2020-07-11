@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: rgb(233, 182, 88);
+    justify-content: center;
+    
+}
+h1{
+    display: inline-block;
+}
+
+
+.big{
+    background-color: black;
+    width: 50%;
+    height: 100%;
+ 
+}
+.buttons button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    border: none;
+    margin: 0px 10px 0px 10px;
+color: white;
+background-color: rgb(163, 63, 63);
+outline: none;
+
+}
+.buttons button:hover{
+background-color: cornsilk;
+color: crimson;
+}
